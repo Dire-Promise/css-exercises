@@ -1,0 +1,14 @@
+.baka,
+.shinji {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif
+}
+
+.baka {
+    background-color: black;
+    color: white;
+}
+
+.shinji {
+    background-color: yellow;
+}
